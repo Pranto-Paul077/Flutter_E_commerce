@@ -1,3 +1,4 @@
+<img width="356" height="783" alt="Screenshot 2026-02-21 105002" src="https://github.com/user-attachments/assets/6ab9c43d-6ede-47aa-82cb-777bbbbadae5" />
 # flutter_ecommerce_you
 
 A new Flutter project.
